@@ -9,7 +9,7 @@
 
 :root {
   --primary-bg: #edfdfc;
-  --secondary-bg: #9bf3f0;
+  --secondary-bg: #00ff9d;
   --primary-text: #021212;
   --secondary-text: #042523;
   --third-text: #063735;
@@ -595,8 +595,8 @@ section.project {
 }
 
 .project .container-project .box2 {
-  height: 45rem;
-  width: 80%;
+  height: 55rem;
+  width: 100%;
   border-radius: 0.5rem;
   box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.1);
   overflow: hidden;
